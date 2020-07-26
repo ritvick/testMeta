@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "the-example-app.nodejs": "git@github.com:contentful/the-example-app.nodejs.git",
+    "node-js-sample": "git@github.com:heroku/node-js-sample.git"
+  }
+}
